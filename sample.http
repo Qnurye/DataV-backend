@@ -1,0 +1,43 @@
+### Province
+GET http://localhost:2026/province
+
+### ads_day_purchase
+
+GET http://localhost:2026/ads_day_purchase
+
+### ads_product_analysis
+
+GET http://localhost:2026/ads_product_analysis
+
+### ads_top10_frequent_item_list
+
+GET http://localhost:2026/ads_top10_frequent_item_list
+
+### item_information
+
+GET http://localhost:2026/item_information
+
+### province_distribution
+
+GET http://localhost:2026/province_distribution
+
+### top20_popular_items_by_behavior
+
+GET http://localhost:2026/top20_popular_items_by_behavior
+
+### user_behavior
+
+GET http://localhost:2026/user_behavior
+
+### user_order_data
+
+GET http://localhost:2026/user_order_data
+
+### ads_top5_popular_items
+
+GET http://localhost:2026/ads_top5_popular_items
+
+### order_item_user_count
+
+GET http://localhost:2026/order_item_user_count
+
